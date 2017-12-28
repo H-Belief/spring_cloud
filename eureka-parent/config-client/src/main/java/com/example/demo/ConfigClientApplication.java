@@ -18,6 +18,6 @@ public class ConfigClientApplication {
 	String foo;
 	@RequestMapping(value = "/hi")
 	public String hi(){
-		return foo;  
+		return foo;
 	}
 }
