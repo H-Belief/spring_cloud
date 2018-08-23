@@ -4,6 +4,7 @@
  service-ribbon:      8764
  service-feign:       8765
  service-zuul:        8769
+ service-jpa          8770
 
 
  config-client:       8881
