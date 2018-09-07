@@ -5,7 +5,7 @@
  service-feign:       8765
  service-zuul:        8769
  service-jpa          8770
-
+ service-solr         8780
 
  config-client:       8881
  config-eureka-server:8889
